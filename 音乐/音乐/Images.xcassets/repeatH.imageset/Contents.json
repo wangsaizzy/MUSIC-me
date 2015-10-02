@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "filename" : "repeat_48px_1175852_easyicon.net.png"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
